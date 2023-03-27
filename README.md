@@ -9,18 +9,14 @@ Currently working occupancy grids and performing motion planning using Disparity
 
 MonoDepth Results:
 
-Original Image
-![Cam_video_tello](https://user-images.githubusercontent.com/109377585/227813647-15189050-db2f-47d8-a291-2eae68ca1bcc.jpg)
-Depth Map and Distance:
-![Depth_map_tello](https://user-images.githubusercontent.com/109377585/227813648-05a6f129-3f18-4e23-b56b-acebe783c687.jpg)
+Original Image vs Depth Map Distance
+![comp](https://user-images.githubusercontent.com/109377585/227813864-d4fd1942-4e2c-4494-b345-55e3040b66a1.jpg)
 Third Person
 ![fpv_tello](https://user-images.githubusercontent.com/109377585/227813649-eae86c04-19d6-4372-896c-4df835557deb.jpg)
-![fpv2_tello](https://user-images.githubusercontent.com/109377585/227813651-c7519ba9-042d-4581-ad6e-dd5fd04ccbe3.jpg)
-
 
 
 ![results](https://user-images.githubusercontent.com/109377585/227763711-054c9771-5af3-4a1a-8345-712609dc05ef.png)
 
 
-Occupancy Grid (Range based)
+Occupancy Grid (Look Ahead based)
 ![occupancy_grid](https://user-images.githubusercontent.com/109377585/227763715-157e356e-473a-4ee3-ad96-2167e4ae62b6.png)
