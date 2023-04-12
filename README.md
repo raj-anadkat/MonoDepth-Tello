@@ -15,8 +15,6 @@ Third Person
 ![fpv_tello](https://user-images.githubusercontent.com/109377585/227813649-eae86c04-19d6-4372-896c-4df835557deb.jpg)
 
 
-![results](https://user-images.githubusercontent.com/109377585/227763711-054c9771-5af3-4a1a-8345-712609dc05ef.png)
+Comparison with Intel Realsense RGBD maps
+![mono_realsense](https://user-images.githubusercontent.com/109377585/231362740-ccefdbf1-0782-4083-9709-1815b1f1e00e.jpg)
 
-
-Occupancy Grid (Look Ahead based)
-![occupancy_grid](https://user-images.githubusercontent.com/109377585/227763715-157e356e-473a-4ee3-ad96-2167e4ae62b6.png)
